@@ -15,17 +15,4 @@
 
 </font> 
 ![This is an image](https://github.com/Mohameddnabil/Plants-vs.-Zombies/blob/main/NightMode.PNG)
-<font>
-
-
-
-
-
-
-
-
-
-
-
-</font>
 ![This is an image](https://github.com/Mohameddnabil/Plants-vs.-Zombies/blob/main/SunMode.PNG)
